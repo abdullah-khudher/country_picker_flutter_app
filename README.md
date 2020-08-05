@@ -1,4 +1,4 @@
-# countrypickerflutterapp
+# country picker flutter app
 
 A new Flutter application.
 
